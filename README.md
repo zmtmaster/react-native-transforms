@@ -4,4 +4,4 @@
 
 The project demonstrate the usage of React Native transformations. You can read the medium post [here](https://zmtmaster.medium.com/the-heart-of-react-native-transform-e0f4995ebdb6).
 
-![alt text](./docs/images/captured.png 'Sample 1')
+![](./docs/images/captured.PNG 'Sample 1')
